@@ -35,11 +35,11 @@ After conducting a literature survey, we identified random forest regressor, XGB
 
 ##Methodology: 
 
-![Results](methodology.jpg)
+![methodology](https://github.com/Sangram0105/-Predictive-Analytics-for-Heatstroke-in-Pune/assets/115467468/a6eb73ff-0caa-4f6c-a438-44f61f1601a5) 
 Fig 1 : Proposed Model Workflow and Architecture 
 ### Features:
 - **Data Collection:** Utilizes historical weather data (2016-2020) and synthetic heatstroke cases.
-- **Machine Learning Algorithms:** Implements Random Forest Regression, CatBoost Regressor, and XGBoost Algorithm for prediction. [Link to Algorithms]()
+- **Machine Learning Algorithms:** Implements Random Forest Regression, CatBoost Regressor, and XGBoost Algorithm for prediction.
 - **Evaluation Metrics:** Evaluates model performance using RMSE, R-squared score, and accuracy.
 
 
@@ -53,8 +53,9 @@ Fig 1 : Proposed Model Workflow and Architecture
 
 ## Results and Discussion
 
+![Results](https://github.com/Sangram0105/-Predictive-Analytics-for-Heatstroke-in-Pune/assets/115467468/ca446342-a2f2-4da0-a9b1-6b7f3bb96eb5)
 
-![Results](methodology.jpg)
+
 
 | Algorithm              | RMSE   | R-squared (R^2) | Accuracy |
 |------------------------|--------|------------------|----------|
